@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: Exciting projects that involve innovative web application development, where I can contribute my skills and expertise as a Full Stack Developer.
 - 🤔 I’m looking for help with: Staying updated with emerging technologies and industry best practices in order to further improve my development skills.
 - 💬 Ask me about: Anything related to web application development, WordPress plugins/themes, React.js, or Core PHP. I'm here to help!
-- 📫 How to reach me: Feel free to reach out to me through email or any other contact method. You can reach me at [insert email address or preferred contact method].
+- 📫 How to reach me: Feel free to reach out to me through email or any other contact method. You can reach me at [contact@rajdhinge.com].
 - 😄 Pronouns: [he/him]
 - ⚡ Fun fact: I enjoy participating in hackathons and coding competitions, where I get to challenge myself and collaborate with other developers to create innovative solutions.
 
